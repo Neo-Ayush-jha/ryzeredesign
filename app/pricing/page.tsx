@@ -1,5 +1,4 @@
 import Header from '@/components/layout/Header';
-import Footer from '@/components/layout/Footer';
 import PricingSection from '@/components/sections/Pricing';
 
 export default function PricingPage() {
